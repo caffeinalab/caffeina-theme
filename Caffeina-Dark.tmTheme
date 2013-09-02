@@ -40,13 +40,26 @@
 			<key>name</key>
 			<string>Foreground</string>
 			<key>scope</key>
-			<string>keyword.operator.class, constant.other, source.php.embedded.line</string>
+			<string>keyword.operator.class, source.php.embedded.line</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
 				<string>#CCCCCC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Foreground</string>
+			<key>scope</key>
+			<string>constant.other</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#9658A0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -59,7 +72,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BFB78D</string>
+				<string>#AE6083</string>
 			</dict>
 		</dict>
 		<dict>
@@ -137,7 +150,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#99CC99</string>
+				<string>#8EA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -161,7 +174,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6699CC</string>
+				<string>#A8BDE9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -172,9 +185,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
-				<string>#CC99CC</string>
+				<string>#DAD</string>
 			</dict>
 		</dict>
 		<dict>
